@@ -1,6 +1,5 @@
 # titanic-kaggle-challenge
 Kaggle Titanicコンペの分析＆提出記録
-# Titanic - Kaggle チャレンジ
 
 ## 🎯 目的
 Titanicの生存予測を通じて、前処理・特徴量エンジニアリング・モデリング・評価・提出までを実践。
